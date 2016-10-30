@@ -64,15 +64,15 @@ section.module.intro {
   height: 600px;
 }
 section.module.experience {
-  background-image: url("../img/redpanda2.jpg");
+  background-image: url("../img/code.jpg");
   height: 400px;
 }
 section.module.projects {
-  background-image: url("../img/redpanda3.jpg");
+  background-image: url("../img/projects.jpg");
   height: 400px;
 }
 section.module.education {
-  background-image: url("../img/redpanda4.jpg");
+  background-image: url("../img/portland.jpg");
   height: 400px;
 }
 section.module.skills {
