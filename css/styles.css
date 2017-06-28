@@ -15,7 +15,7 @@ body {
   margin-top: 5%;
 }
 .third {
-  width: 33%;
+  width: 32%;
 }
 .about-me-box {
   display: inline-block;
@@ -30,6 +30,10 @@ body {
 }
 .summary {
   margin-top: 30px;
+  text-align: center;
+}
+.summary2 {
+  margin-top: 15px;
   text-align: center;
 }
 section.module:last-child {
