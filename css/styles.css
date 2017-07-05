@@ -1,5 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
+  color: rgba(255, 255, 255, 0.8);
 }
 .container {
   max-width: 960px;
@@ -36,15 +37,33 @@ body {
   margin-top: 15px;
   text-align: center;
 }
-.experience {
+.experience-education {
   text-align: center;
   color: rgba(255, 255, 255, 0.8);
 }
-.experience img {
+.experience-education img {
   width: 200px;
 }
 .experience-details li {
   text-align: left;
+  font-size: 18px;
+}
+.skills-section {
+  margin-bottom: 10px;
+}
+.spark {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.skills-section h3 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+.devicon {
+  padding: 10px;
+  border-radius: 15%;
+  width: 100%;
+  background-color: #FFFFFF;
 }
 section.module:last-child {
   margin-bottom: 0;
@@ -76,10 +95,7 @@ section.module p:last-child {
 }
 section.module.content {
   background-color: #121212;
-  padding: 40px 0;
-}
-section.module.content h2 {
-  color: black;
+  padding: 30px 0;
 }
 section.module.parallax {
   height: 500px;
