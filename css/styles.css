@@ -51,6 +51,10 @@ body {
 .skills-section {
   margin-bottom: 10px;
 }
+.skills-section a:hover {
+  text-decoration: none;
+  opacity: 0.6;
+}
 .spark {
   padding-top: 25px;
   padding-bottom: 25px;
@@ -64,6 +68,12 @@ body {
   border-radius: 15%;
   width: 100%;
   background-color: #FFFFFF;
+}
+.projecticon {
+  padding: 5px;
+  /*border-radius: 10%;*/
+  width: 100%;
+  background-color: #000000;
 }
 section.module:last-child {
   margin-bottom: 0;
