@@ -19,7 +19,7 @@ a:hover {
 .portrait img {
   width: 30%;
   height: 30%;
-  border-radius: 50%;
+  border-radius: 10%;
   margin-top: 5%;
 }
 .third {
