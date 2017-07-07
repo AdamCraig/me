@@ -2,6 +2,13 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: rgba(255, 255, 255, 0.8);
 }
+a {
+  color: rgba(255, 255, 255, 0.8);
+}
+a:hover {
+  color: rgba(255, 255, 255, 0.4);
+  opacity: 0.6;
+}
 .container {
   max-width: 960px;
   margin: 0 auto;
@@ -75,6 +82,10 @@ body {
   width: 100%;
   background-color: #000000;
 }
+.contact2 img {
+  width: 75px;
+  margin-right: 15px;
+}
 section.module:last-child {
   margin-bottom: 0;
 }
@@ -91,8 +102,26 @@ section.module h2 {
   color: rgba(255, 255, 255, 0.8);
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+.contact2 h2 {
+  text-align: left !important;
+}
+.contact2 h2:hover {
+  opacity: 0.6;
+}
+.contact2 a:hover {
+  text-decoration: none;
+}
+.contact2:visited, .contact2:focus, .contact2:active {
+  text-decoration: none;
+}
 .heading {
   padding-top: 8%;
+}
+.back-to-top-arrow {
+  text-align: center;
+}
+.up-arrow {
+  border-radius: 50%;
 }
 section.module p {
   margin-bottom: 20px;
