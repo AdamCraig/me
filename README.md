@@ -12,7 +12,7 @@ _A short, sweet and to-the-point portfolio page, powered by HTML, CSS and JavaSc
 
 ## Setup/Installation Requirements
 
-* _Check out the GitHub Pages link at https://adamcraig.github.io/portfolio-page!_
+* _Check out the GitHub Pages link at https://adamcraig.github.io/me/!_
 
 ## Known Bugs
 
