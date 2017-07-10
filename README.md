@@ -1,4 +1,4 @@
-![Header](screenshot1.png)
+![Header](screenshot2.png)
 
 # _Portfolio Page For Adam Craig_
 
