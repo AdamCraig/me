@@ -1,4 +1,4 @@
-![Header](screenshot1.png)
+![Header](screenshot2.png)
 
 # _Portfolio Page For Adam Craig_
 
@@ -12,7 +12,7 @@ _A short, sweet and to-the-point portfolio page, powered by HTML, CSS and JavaSc
 
 ## Setup/Installation Requirements
 
-* _Check out the GitHub Pages link at https://adamcraig.github.io/portfolio-page!_
+* _Check out the GitHub Pages link at https://adamcraig.github.io/me/!_
 
 ## Known Bugs
 
